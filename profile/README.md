@@ -11,5 +11,5 @@
 
 
 <p align="center">
-  <span><b><a href="https://github.com/Serverless-Devs/Serverless-Devs/blob/master/readme.md">中文文档</a> ｜ <a href="https://github.com/Serverless-Devs/Serverless-Devs/blob/master/readme_en.md">English Docs</a></b></span><br>
+  <span><b><a href="https://github.com/Serverless-Devs/Serverless-Devs/blob/master/readme.md">中文文档</a> ｜ <a href="https://github.com/Serverless-Devs/Serverless-Devs/blob/master/readme_en.md">English documents</a></b></span><br>
 </p>

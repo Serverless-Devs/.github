@@ -11,8 +11,5 @@
 
 
 <p align="center">
-  Document:  <span><b><a href="https://github.com/Serverless-Devs/Serverless-Devs/blob/master/readme.md">中文</a> ｜ <a href="https://github.com/Serverless-Devs/Serverless-Devs/blob/master/readme_en.md">English</a></b></span><br>
+  <span><b><a href="https://github.com/Serverless-Devs/Serverless-Devs/blob/master/readme.md">中文文档</a> ｜ <a href="https://github.com/Serverless-Devs/Serverless-Devs/blob/master/readme_en.md">English Docs</a></b></span><br>
 </p>
-
-| [Serverless Devs](https://www.serverless-devs.com) | [Serverless regsitry](https://regsitry.serverless-devs.com) |  [Serverless Devs Docs](https://docs.serverless-devs.com) | [Serverless Devs Model](https://github.com/Serverless-Devs/Serverless-Devs/tree/master/spec)
-| ---- | ---- | ---- | ---- |
